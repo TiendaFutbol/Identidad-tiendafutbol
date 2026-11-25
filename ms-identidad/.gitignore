@@ -1,0 +1,13 @@
+/target/
+/.idea/
+*.iml
+/.vscode/
+/.classpath
+/.project
+/.settings/
+.env
+/src/main/resources/application-local.yml
+
+node_modules/
+coverage/
+.env
